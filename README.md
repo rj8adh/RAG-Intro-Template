@@ -1,6 +1,6 @@
 # Simple RAG Starter: RAG without a Vector Database
 
-This repository provides a very basic, beginner-friendly Python script to demonstrate the core principles of Retrieval-Augmented Generation (RAG). It's designed to accompany the blog post "[Introduction to RAG: The Powerhouse Behind Chatbots](<Your Blog Post Link Here>)" and show the fundamental steps of RAG in a runnable way.
+This repository provides a very basic, beginner-friendly Python script to demonstrate the core principles of Retrieval-Augmented Generation (RAG). It's designed to accompany the blog post "[Introduction to RAG: The Powerhouse Behind Chatbots](https://medium.com/@rj8adhikari/introduction-to-rag-the-powerhouse-behind-chatbots-1633f0277222)" and show the fundamental steps of RAG in a runnable way.
 
 ### Things To Keep In Mind
 
@@ -61,3 +61,4 @@ python basic_rag.py
 
 
 You can open `basic_rag.py` to change the `user_query` variable and ask different questions about the provided documents!
+
